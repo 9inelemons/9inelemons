@@ -1,3 +1,5 @@
+###
+
 <h2 align="left">Hi 👋! My name is Vladisalv and I'm a Senior BackendDeveloper</h2>
 
 ###
@@ -36,11 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/9inelemons/9inelemons/output/snake.svg" alt="Snake animation" />
-
-###
