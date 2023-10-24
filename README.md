@@ -1,8 +1,20 @@
-<h2 align="left">Hi 👋! My name is Vladisalv and I'm a Senior BackendDeveloper</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<img align="right" height="150" src="https://img.hhcdn.ru/photo/580123778.jpeg?t=1698260271&h=wCBZSwJFLz4tKb3TZDDb7w"  />
+<p align="left">My name is Vladislav and I'm a Senior Backend Developer</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Laravel<br>🎯 Goals: Con
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -25,16 +37,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="mailto:9inelemons@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/lofi_pain" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
